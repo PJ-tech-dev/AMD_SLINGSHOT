@@ -1,0 +1,18 @@
+# Vivado project files to ignore
+project_1/project_1.cache/
+project_1/project_1.hw/
+project_1/project_1.ip_user_files/
+project_1/project_1.runs/
+project_1/project_1.gen/
+project_1/vivado*.log
+project_1/vivado*.jou
+project_1/hs_err_pid*.log
+project_1/hs_err_pid*.dmp
+
+# General Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
